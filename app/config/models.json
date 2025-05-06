@@ -8,7 +8,7 @@
       "type": "gemini",
       "model": "gemini-2.0-flash",
       "embedding_model": "models/embedding-001",
-      "api_key_env": "AIzaSyCFd7qrUDJwNs_e52-TYLG3dvhztazCU7A"
+      "api_key_env": "test"
     },
     "phi4": {
       "type": "ollama",
